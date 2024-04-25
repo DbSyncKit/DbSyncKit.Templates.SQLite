@@ -1,0 +1,1 @@
+# DbSyncKit.Templates.SQLite
