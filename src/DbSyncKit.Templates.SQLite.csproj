@@ -6,13 +6,15 @@
     <Nullable>enable</Nullable>
 	<GenerateDocumentationFile>True</GenerateDocumentationFile>
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-	<AssemblyVersion>1.5.0.0</AssemblyVersion>
-	<FileVersion>1.5.0.0</FileVersion>
-	<Version>1.5.0.0</Version>
+	<AssemblyVersion>1.5.0.1</AssemblyVersion>
+	<FileVersion>1.5.0.1</FileVersion>
+	<Version>1.5.0.1</Version>
 	<PackageProjectUrl>https://dbsynckit.rohit-mahajan.in/</PackageProjectUrl>
 	<PackageReadmeFile>README.md</PackageReadmeFile>
 	<RepositoryUrl>https://github.com/RohitM-IN/DbSyncKit</RepositoryUrl>
 	<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+	<Description>Enhance your SQLite database queries with DbSyncKit.Templates.SQLite. This package delivers templates for SELECT, INSERT, UPDATE, DELETE, and COMMENT queries, simplifying SQL operations for improved readability and efficiency.</Description>
+	<PackageTags>sqlite;templating;fluid;sql-query-builder;dbsync;dbsynckit</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
